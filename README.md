@@ -10,5 +10,7 @@ https://maven.google.com/com/android/support/collections/28.0.0/collections-28.0
 - https://developer.android.com/topic/libraries/support-library/revisions#28-0-0
 
 **SVN checkout:**
+- _File > Import... > Team > Team Project Set > URL:_<br/>
+  https://raw.githubusercontent.com/dandar3/android-support-collections/28.0.0/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
-  https://github.com/dandar3/android-support-annotations/tags/28.0.0
+  https://github.com/dandar3/android-support-collections/tags/28.0.0
